@@ -1,2 +1,2 @@
 # PAI
-An beginner level chat bot
+A beginner level chat bot
